@@ -1,0 +1,27 @@
+{
+  "name": "react-personalized-modal-by-fatma",
+  "version": "0.0.5",
+  "description": "React library to create personalized modal",
+  "main": "Modal.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FatmaNABLI/react-personalized-modal-by-fatma.git"
+  },
+  "keywords": [
+    "react",
+    "modal",
+    "personalized"
+  ],
+  "author": "Fatma Nabli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FatmaNABLI/react-personalized-modal-by-fatma/issues"
+  },
+  "homepage": "https://github.com/FatmaNABLI/react-personalized-modal-by-fatma#readme",
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
